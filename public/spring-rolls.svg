@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#fff7e7"/>
+  <ellipse cx="320" cy="305" rx="205" ry="34" fill="#a87945" opacity=".25"/>
+  <ellipse cx="320" cy="260" rx="180" ry="78" fill="#fffdf5" stroke="#dbc9ae" stroke-width="5"/>
+  <g fill="#d7943d" stroke="#a96120" stroke-width="5">
+    <rect x="188" y="222" width="190" height="42" rx="20" transform="rotate(-18 188 222)"/>
+    <rect x="250" y="183" width="190" height="42" rx="20" transform="rotate(12 250 183)"/>
+    <rect x="270" y="253" width="190" height="42" rx="20" transform="rotate(-8 270 253)"/>
+  </g>
+  <path d="M218 225l122-39M286 202l123 25M310 275l124-18" stroke="#f5c873" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="205" cy="180" r="18" fill="#c93625"/><circle cx="205" cy="180" r="9" fill="#f1a33c"/>
+  <text x="320" y="370" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#a96120">SPRING ROLLS</text>
+</svg>

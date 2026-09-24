@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#fff1ec"/>
+  <circle cx="320" cy="210" r="125" fill="#e23744"/>
+  <circle cx="320" cy="210" r="92" fill="#fff8f5"/>
+  <path d="M265 205c25-52 87-52 112 0-12 34-30 51-56 51s-44-17-56-51z" fill="#f4ad24"/>
+  <circle cx="292" cy="190" r="9" fill="#70a84a"/><circle cx="350" cy="220" r="8" fill="#70a84a"/>
+  <text x="320" y="370" text-anchor="middle" font-family="Arial" font-size="25" fill="#a94a3b">Freshly prepared</text>
+</svg>

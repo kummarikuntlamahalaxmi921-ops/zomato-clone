@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#fff7e8"/>
+  <ellipse cx="320" cy="310" rx="210" ry="34" fill="#9a6a39" opacity=".25"/>
+  <ellipse cx="245" cy="255" rx="132" ry="70" fill="#f4c77b" stroke="#b97831" stroke-width="6"/>
+  <path d="M160 255c35-65 128-86 179-27-30 56-105 79-179 27z" fill="#ffe0a1"/>
+  <path d="M164 250c42-17 89-18 135 7M172 272c45-17 88-12 128 8" fill="none" stroke="#d69546" stroke-width="7"/>
+  <ellipse cx="421" cy="252" rx="76" ry="60" fill="#a74322" stroke="#7d301c" stroke-width="6"/>
+  <path d="M360 245c37-27 78-30 120-4M372 267c33-18 67-18 100-2" fill="none" stroke="#e18a36" stroke-width="8"/>
+  <text x="320" y="370" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#9b5e29">PAROTTA WITH SALNA</text>
+</svg>

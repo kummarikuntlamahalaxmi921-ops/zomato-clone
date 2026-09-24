@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#fff0dc"/>
+  <ellipse cx="320" cy="310" rx="210" ry="34" fill="#8f512c" opacity=".3"/>
+  <ellipse cx="320" cy="260" rx="186" ry="82" fill="#f5eee1" stroke="#d5b88e" stroke-width="6"/>
+  <path d="M185 251c22-64 81-94 143-91 70 3 119 39 135 91-64 45-212 48-278 0z" fill="#8f3222"/>
+  <g fill="#bb4d25"><circle cx="240" cy="224" r="31"/><circle cx="310" cy="200" r="34"/><circle cx="387" cy="231" r="32"/><circle cx="335" cy="265" r="31"/></g>
+  <g fill="#e4ad43"><circle cx="254" cy="211" r="5"/><circle cx="322" cy="189" r="5"/><circle cx="400" cy="219" r="5"/></g>
+  <g fill="#579042"><ellipse cx="212" cy="240" rx="23" ry="7" transform="rotate(-25 212 240)"/><ellipse cx="431" cy="252" rx="23" ry="7" transform="rotate(25 431 252)"/></g>
+  <text x="320" y="370" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#8f3222">CHETTINAD CHICKEN</text>
+</svg>
